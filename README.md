@@ -6,7 +6,7 @@
 
 ####  WED DESIGN
 
-      Web design is the process of creating the visual and interactive elements of a website, focusing on 
+Web design is the process of creating the visual and interactive elements of a website, focusing on 
   the aesthetics, user experience, and usability. Here's a brief explanation of web design:
   Visual Design:
       Layout: Web designers are responsible for designing the layout of a website, including the placement 
